@@ -29,6 +29,20 @@ Miscellaneous Projects → Anything I tinker with outside school.
 
 <br>
 
+📖 **Glossary / Index**
+
+### 🏗️ Core Projects
+1. [Initial Setup (Home Network)](./1.%20Initial%20Setup%20(Home%20Network).md).  
+   _Layer 1 work: configuring switches, terminating cables, physical setup._  
+
+2. [VLAN Initial Setup](./2.%20VLAN%20Initial%20Setup.md)  
+   _First firewall rules + VLAN segmentation._  
+
+3. [HomeLab Re-Initialization – Network Migration](./3.HomeLab%20Re-Initialization%20–%20Network%20Migration.md)  
+   _Migrated Proxmox & TrueNAS into secure VLAN, baseline for future expansion._  
+
+---
+
 
 **📈 Why This Repo Exists**
 
