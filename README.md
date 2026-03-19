@@ -40,7 +40,8 @@ Miscellaneous Projects → Anything I tinker with outside school.
 
 3. [HomeLab Re-Initialization – Network Migration](./3.HomeLab%20Re-Initialization%20–%20Network%20Migration.md)  
    _Migrated Proxmox & TrueNAS into secure VLAN, baseline for future expansion._  
-
+4. [HomeLab Security Audit - Nmap Scans](./Network-Security/1.%20Initial%20Security%20Audit.md)  
+   _Active recon of home network using Nmap & Wireshark Identified and assessed 8 devices._ 
 ---
 
 
