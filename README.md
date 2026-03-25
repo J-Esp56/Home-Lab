@@ -32,16 +32,19 @@ Miscellaneous Projects → Anything I tinker with outside school.
 📖 **Glossary / Index**
 
 ### 🏗️ Core Projects
-1. [Initial Setup (Home Network)](./1.%20Initial%20Setup%20(Home%20Network).md).  
+1. [Initial Setup (Home Network)](./Home-Network/1.%20Initial%20Setup%20(Home%20Network).md)
+
    _Layer 1 work: configuring switches, terminating cables, physical setup._  
 
-2. [VLAN Initial Setup](./2.%20VLAN%20Initial%20Setup.md)  
+2. [VLAN Initial Setup](./Home-Network/2.%20VLAN%20Initial%20Setup.md)  
    _First firewall rules + VLAN segmentation._  
 
-3. [HomeLab Re-Initialization – Network Migration](./3.HomeLab%20Re-Initialization%20–%20Network%20Migration.md)  
+3. [HomeLab Re-Initialization – Network Migration](./Home-Network/3.HomeLab%20Re-Initialization%20–%20Network%20Migration.md)  
    _Migrated Proxmox & TrueNAS into secure VLAN, baseline for future expansion._  
 4. [HomeLab Security Audit - Nmap Scans](./Network-Security/1.%20Initial%20Security%20Audit.md)  
    _Active recon of home network using Nmap & Wireshark Identified and assessed 8 devices._ 
+5. [Cisco Switching Lab- Initial Setup ](./Cisco-3750x-Switching-Lab/1.%203750x%20Initial%20Setup.md)  
+   _Initial configuration of a Cisco Catalyst 3750-X via console. Factory reset, built VLANs, assigned access ports, and configured SVIs for inter-VLAN routing._
 ---
 
 
